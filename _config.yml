@@ -8,3 +8,6 @@ description: [A short description of your site's purpose]
 github:
   repository_url: https://github.com/awalmer/GitHub-Page-Mock-Up
   owner_name: awalmer
+  repository_name: GitHub-Page-Mock-Up
+  project_tagline: 'Test tagline'
+  
