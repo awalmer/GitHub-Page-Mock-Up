@@ -23,9 +23,15 @@ h3 {
 
 /* unvisited link */
 a:link {
-    color: rgb(188, 236, 248);
+    color: #bcecf8;
   }
 /* mouse over link */
 a:hover {
     color: rgb(96, 190, 233);
+  }
+  a:visited {
+    color: #bcecf8;
+  }
+  a {
+    color: #bcecf8;
   }
