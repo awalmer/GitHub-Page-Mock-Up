@@ -2,3 +2,10 @@
 ---
 
 @import 'midnight';
+
+body {
+    margin: 30px;
+    background: #272726;
+    text-align: center;
+    font: 75% georgia, sans-serif;
+}
