@@ -7,5 +7,22 @@ body {
     margin: 30px;
     background: #272726;
     text-align: center;
-    font: 75% georgia, sans-serif;
+    font: 110% georgia, sans-serif;
+    color: white;
 }
+
+h1 {
+    color: #e6e6e6;
+}
+h3 {
+    color: #d0cfcf;
+}
+
+/* unvisited link */
+a:link {
+    color: rgb(188, 236, 248);
+  }
+/* mouse over link */
+a:hover {
+    color: rgb(96, 190, 233);
+  }
