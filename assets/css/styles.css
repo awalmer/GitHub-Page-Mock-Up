@@ -13,9 +13,11 @@ body {
 
 h1 {
     color: #e6e6e6;
+    font: georgia, sans-serif;
 }
 h3 {
     color: #d0cfcf;
+    font: georgia, sans-serif;
 }
 
 /* unvisited link */
