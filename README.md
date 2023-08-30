@@ -1,3 +1,7 @@
-# GitHub Page Mock Up
-Repository for testing GitHub Pages.
-Mock up of a GitHub page containing resources and links related to the Highchart Sonification Studio (Georgia Tech Sonification Lab) YouTube Channel.
+# HSS-Tutorials
+Repository for HSS Tutorials GitHub Pages Site
+
+Access GitHub Pages Site (URL): https://hss-tutorials.github.io/HSS-Resources
+
+Starter theme implemented: [Editorial from HTML5 UP](https://html5up.net/editorial)
+
